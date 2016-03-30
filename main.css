@@ -19,14 +19,15 @@
 }
 
 .image-footer {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .authors img {
   width: 18px;
   height: auto;
   border: none;
+
 }
 .authors {
   float: right;
