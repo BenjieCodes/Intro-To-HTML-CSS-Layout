@@ -1,0 +1,49 @@
+* {
+  /*border: solid red 1px;*/
+}
+
+.octocat {
+  width: 300px;
+  height: auto;
+  float: left;
+  padding: 10px;
+  border-bottom: solid lightgray 1px;
+
+}
+
+.octocat img {
+  width: 300px;
+  height: auto;
+  border: solid lightgray 1px;
+}
+
+.authors img {
+  width: 18px;
+  height: auto;
+  border: none;
+}
+.authors {
+  float: right;
+}
+
+.image-number {
+  color: gray;
+  font-weight: bold;
+}
+
+.image-caption {
+  color: gray;
+  float: right;
+}
+
+.image-caption a {
+
+}
+
+li  {
+list-style: none;
+}
+
+ul {
+  padding-left: 0;
+}
