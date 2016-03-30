@@ -1,1 +1,1 @@
-This repository contains code to "master" css layout commands.
+This repository allows us to get familiar with css layout commands. 
