@@ -6,7 +6,7 @@
   width: 300px;
   height: auto;
   float: left;
-  padding: 10px;
+  margin: 10px;
   border-bottom: solid lightgray 1px;
 
 }
@@ -14,7 +14,13 @@
 .octocat img {
   width: 300px;
   height: auto;
-  border: solid lightgray 1px;
+  border: 2px solid lightgray;
+  border-radius: 3px;
+}
+
+.image-footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .authors img {
@@ -27,16 +33,22 @@
 }
 
 .image-number {
-  color: gray;
+  color: lightgray;
   font-weight: bold;
+  font-size: 12px;
 }
 
 .image-caption {
   color: gray;
   float: right;
+  font-size: 12px;
 }
 
 .image-caption a {
+  font-weight: bolder;
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
 
 }
 
